@@ -28,12 +28,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-akb25&show_icons=true&locale=en" alt="i-akb25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-akb25&" alt="i-akb25" /></p>
+<p><img max-height="10px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-akb25&" alt="i-akb25" /></p>
 
 ###
 
 
-   !(https://github.com/user-attachments/assets/745f17e0-749e-4a70-93cd-a779a749a9aa) 
+   ![ace-akb](https://github.com/user-attachments/assets/745f17e0-749e-4a70-93cd-a779a749a9aa) 
 
 
 ###
