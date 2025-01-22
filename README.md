@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Quantum Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-akb25/](https://github.com/i-akb25/)
+- 👨‍💻 All of my projects are available at [github.com/i-akb25/](https://github.com/i-akb25/)
+
+- 👨‍💻 Visit my profile at [anuragaryan.com](https://ace-akb.vercel.app/)
 
 - 💬 Ask me about **React, MERN Stack, Drone**
 
@@ -31,7 +33,7 @@
 ###
 
 
-   ![akb-image](https://github.com/user-attachments/assets/745f17e0-749e-4a70-93cd-a779a749a9aa) 
+   !(https://github.com/user-attachments/assets/745f17e0-749e-4a70-93cd-a779a749a9aa) 
 
 
 ###
