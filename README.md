@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/i-akb25/](https://github.com/i-akb25/)
 
-- 👨‍💻 Visit my profile at [anuragaryan.com](https://ace-akb.vercel.app/)
+- 👨‍💻 Visit my profile at [ace-akb.vercel.app](https://ace-akb.vercel.app/)
 
-- 💬 Ask me about **React, MERN Stack, Drone**
+- 💬 Ask me about **WEB3, MERN Stack, Drone**
 
 - 📫 How to reach me **anuragaryanofficial@gmail.com**
 
