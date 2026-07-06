@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Initializing+Engineering+Control+Center...;Engineering+Systems+That+Create+Real-World+Impact;Full+Stack+Development+%7C+Artificial+Intelligence;Industrial+Automation+%7C+System+Architecture;Building+Products+That+Matter" alt="Typing SVG" />
