@@ -241,25 +241,24 @@ Whether you're building something ambitious, hiring, collaborating on open sourc
 <img src="https://skillicons.dev/icons?i=github" height="38"/>
 </a>
 
-&nbsp;&nbsp;
+
 
 <a href="https://www.linkedin.com/in/anuragkumarbharti">
 <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
 </a>
 
-&nbsp;&nbsp;
+
 
 <a href="mailto:anuragbhartiee25@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
 </a>
 
-&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/urr_anurag.akb">
 <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
 </a>
 
-&nbsp;&nbsp;
+
 
 <a href="https://discord.com/users/ace_anurag">
 <img src="https://skillicons.dev/icons?i=discord" height="38"/>
