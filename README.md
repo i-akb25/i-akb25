@@ -141,7 +141,7 @@ A snapshot of the road travelled so far.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=i-akb25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akb25&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,dockerfile,shell" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akb25&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,dockerfile,shell" alt="Top Languages"/>
 
 <p align="center">
   <img width="72%" src="https://streak-stats.demolab.com?user=i-akb25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
