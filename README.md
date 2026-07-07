@@ -106,7 +106,7 @@ A lightweight developer toolkit built to simplify repetitive tasks and make ever
 
 </div>
 </p>
----
+
 
 ## 🎒 Pack List
 
@@ -180,7 +180,7 @@ Every contribution leaves a footprint.
 
 ## 🚀 Current Expedition
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/🤖%20AI%20Applications-181717?style=flat-square"/>
 
