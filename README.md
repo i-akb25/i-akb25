@@ -1,6 +1,5 @@
 <!-- ========================================================= -->
 <!--                ANURAG KUMAR BHARTI                         -->
-<!--           Engineer • Builder • Explorer                   -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -9,50 +8,49 @@
 
 <p align="center">
   <a href="https://github.com/i-akb25">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Electrical+Engineer;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Robotics+Explorer;Building+Real-World+Systems" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Electrical+Engineer;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Robotics+Explorer;Building+Practical+Systems" alt="Typing SVG"/>
   </a>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/📍%20India-181717?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/💼%20Open%20to%20Work-238636?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🤝%20Collaboration-Welcome-58A6FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🌍%20Explorer-2EA043?style=flat-square"/>
+
 </p>
 
 ---
 
 ## 👋 Hello, fellow explorer.
 
-I'm **Anurag Kumar Bharti**, an Electrical Engineer passionate about building software that bridges **engineering, automation, AI and intelligent systems**.
+I'm **Anurag Kumar Bharti** — an Electrical Engineer who enjoys building products where engineering, automation and intelligent systems come together.
 
-From industrial automation and robotics to scalable full-stack applications, I enjoy transforming ambitious ideas into practical products that solve real-world problems.
+My work spans industrial automation, full-stack development, AI, robotics and cloud technologies, with a focus on creating software that's practical, scalable and built to solve real-world problems.
 
-I believe every project is another destination on a journey of learning, building and continuous improvement.
+Outside of engineering, you'll usually find me planning the next adventure, exploring new technologies, or improving the projects that live here.
 
-<br>
-
-### ✨ At a Glance
-
-- 📍 Based in **Bihar, India**
-- 💼 **Open to Professional Opportunities**
-- 🤝 Always open to meaningful collaborations
-- 🌍 Passionate about building products with real-world impact
-- 🚀 Interests: AI • Robotics • Automation • Cloud • Full Stack
+> *Every repository is another stop on the journey.*
 
 <br>
 
-> *"Every destination begins with a single commit."*
+### ✨ Quick Snapshot
 
-<br>
+```text
+⚡ Engineer by profession
+🌐 Full Stack Developer
+🤖 AI & Automation Enthusiast
+🛰 Robotics • IoT • Embedded Systems
+☁ Cloud & DevOps Explorer
+🚀 Always building. Always learning.
+```
+## 🧭 Expedition Log
 
-<p>
-
-<img src="https://img.shields.io/badge/Open%20to-Work-238636?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Available%20for-Collaboration-58A6FF?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Focus-Engineering-0D1117?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Loves-Adventure-2EA043?style=flat-square"/>
-
-</p>
-## 🗺️ Expedition Log
-
-A few destinations that best represent my journey as an engineer.
+These are the projects that best represent my journey as an engineer.
 
 <br>
 
@@ -63,17 +61,17 @@ A few destinations that best represent my journey as an engineer.
 
 ### 🌐 Portfolio
 
-A curated collection of my projects, experience and engineering journey.
+A central place showcasing my engineering journey, projects, technical experience and achievements.
 
-> **Highlights**
->
-> • Featured Projects
->
-> • Technical Skills
->
-> • Professional Experience
->
-> • Resume & Contact
+<br>
+
+**Highlights**
+
+- 🚀 Featured Projects
+- 💼 Professional Experience
+- 🏆 Achievements
+- 📄 Resume
+- 📬 Contact
 
 <br>
 
@@ -87,17 +85,16 @@ A curated collection of my projects, experience and engineering journey.
 
 ### ⚡ AKB CLI
 
-A modern command-line toolkit focused on improving developer productivity and simplifying everyday workflows.
+A modern developer toolkit focused on simplifying repetitive tasks and improving developer productivity.
 
-> **Built For**
->
-> • Developers
->
-> • Automation
->
-> • Productivity
->
-> • Better Workflows
+<br>
+
+**Designed For**
+
+- ⚙ Automation
+- 🚀 Productivity
+- 🧩 Better Workflows
+- 💻 Everyday Development
 
 <br>
 
@@ -110,62 +107,46 @@ A modern command-line toolkit focused on improving developer productivity and si
 </tr>
 </table>
 
-<br>
+---
 
-## 🎒 Engineering Pack
+## 🎒 Pack List
 
-The technologies I rely on while building modern software and intelligent systems.
-
-<br>
-
-**Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c&perline=8"/>
-</p>
-
-**Frontend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&perline=8"/>
-</p>
-
-**Backend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs&perline=8"/>
-</p>
-
-**Database**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=8"/>
-</p>
-
-**Cloud & DevOps**
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,vercel,git,github&perline=8"/>
-</p>
-
-**Engineering & Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,matlab,raspberrypi,vscode,postman&perline=8"/>
-</p>
+The tools I carry for every new expedition.
 
 <br>
 
-> 🧳 *Every new tool is another companion for the next adventure.*
+### 💻 Build
 
-## 📈 Journey So Far
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
+</p>
 
-Every commit tells a story. Every repository marks another milestone.
+### 🎨 Create
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,express" />
+</p>
+
+### ☁ Deploy
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,docker,gcp,vercel" />
+</p>
+
+### 🛰 Explore
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,githubactions,linux,matlab,raspberrypi,vscode" />
+</p>
+
+> 🧳 *A good explorer doesn't carry every tool—only the right ones for the journey.* 
+
+## 📈 Journey
+
+A snapshot of the road travelled so far.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=i-akb25&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=i-akb25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akb25&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
@@ -174,48 +155,51 @@ Every commit tells a story. Every repository marks another milestone.
   <img width="72%" src="https://streak-stats.demolab.com?user=i-akb25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<br>
+---
 
-## 🧭 Trail Map
+## 🗺️ Trail Map
 
-A visual footprint of the journey so far.
+Every contribution leaves a footprint.
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=i-akb25&theme=github-dark&hide_border=true&area=true&radius=8" alt="Contribution Graph"/>
 </p>
 
-<br>
-
 <p align="center">
   <img width="100%" src="https://github.com/i-akb25/i-akb25/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
-<br>
+---
 
-## 🏕️ Milestones Collected
-
-A few achievements picked up along the way.
+## 🏆 Milestones
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=i-akb25&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-> 💡 **Building consistently matters more than building constantly.** Small improvements, repeated over time, create lasting impact.
+---
 
-<br>
+## 🚀 Current Expedition
 
-## 🌍 Currently Exploring
+<p>
 
-- 🤖 Practical AI applications & intelligent automation
-- ⚡ Enterprise-scale software engineering
-- 🛰️ Robotics, IoT & embedded systems
-- ☁️ Cloud-native architectures
-- 🌱 Open-source contributions and developer tooling
+<img src="https://img.shields.io/badge/🤖%20AI%20Applications-181717?style=flat-square"/>
 
-<br>
+<img src="https://img.shields.io/badge/⚡%20Enterprise%20Software-238636?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🛰️%20Robotics%20%26%20IoT-58A6FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/☁️%20Cloud%20Architecture-0D1117?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🌱%20Open%20Source-2EA043?style=flat-square"/>
+
+</p>
+
+> *Still discovering new paths, one commit at a time.*
+
 ## 🤝 Let's Build Something Together
 
-Whether you're building something ambitious, hiring, collaborating on open source, or simply want to exchange ideas—I'd be glad to connect.
+If you're looking for an engineer, collaborator, or simply someone who enjoys discussing technology and ambitious ideas, I'd love to hear from you.
 
 <p align="center">
 
@@ -223,7 +207,7 @@ Whether you're building something ambitious, hiring, collaborating on open sourc
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge"/>
 </a>
 
-<a href="mailto:anuragbhartiee25@gmail.com">
+<a href="mailto:anuragaryanofficial@gmail.com">
 <img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge"/>
 </a>
 
@@ -233,48 +217,29 @@ Whether you're building something ambitious, hiring, collaborating on open sourc
 
 </p>
 
-### 🌐 Find Me Around the Web
-
-<p>
-
-<a href="https://github.com/i-akb25">
-<img src="https://skillicons.dev/icons?i=github" height="38"/>
-</a>
-
-
-
-<a href="https://www.linkedin.com/in/anuragkumarbharti">
-<img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
-</a>
-
-
-
-<a href="mailto:anuragbhartiee25@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="38"/>
-</a>
-
-
-<a href="https://www.instagram.com/urr_anurag.akb">
-<img src="https://skillicons.dev/icons?i=instagram" height="38"/>
-</a>
-
-
-
-<a href="https://discord.com/users/ace_anurag">
-<img src="https://skillicons.dev/icons?i=discord" height="38"/>
-</a>
-
-</p>
-
 <br>
 
-### 👣 Fellow Explorers
+<p align="center">
 
-<p>
+<a href="https://github.com/i-akb25">
+<img src="https://skillicons.dev/icons?i=github" height="36"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=i-akb25&label=Profile+Views&style=flat-square&color=58A6FF"/>
+<a href="https://www.linkedin.com/in/anuragkumarbharti">
+<img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+</a>
 
-<img src="https://visitcount.itsvg.in/api?id=i-akb25&label=Unique+Visitors&pretty=true"/>
+<a href="mailto:anuragaryanofficial@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="36"/>
+</a>
+
+<a href="https://www.instagram.com/urr_anurag.akb">
+<img src="https://skillicons.dev/icons?i=instagram" height="36"/>
+</a>
+
+<a href="https://discord.gg/ace_anurag">
+<img src="https://skillicons.dev/icons?i=discord" height="36"/>
+</a>
 
 </p>
 
@@ -282,28 +247,24 @@ Whether you're building something ambitious, hiring, collaborating on open sourc
 
 <p align="center">
 
-### 🌍 End of This Expedition
+<img src="https://komarev.com/ghpvc/?username=i-akb25&label=Profile%20Views&style=flat-square&color=58A6FF"/>
 
-*"Every destination begins with curiosity. Every meaningful project begins with a single commit."*
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=5000&pause=100000&color=58A6FF&center=true&vCenter=true&width=420&lines=Thanks+for+stopping+by!+👋" alt="Thanks"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=2&section=footer"/>
-
-### **Anurag Kumar Bharti**
-
-<sub>
-Engineer • Builder • Explorer
-</sub>
-
-<br>
-
-<sub>
-Crafting software that turns ideas into real-world systems.
-</sub>
+<img src="https://visitcount.itsvg.in/api?id=i-akb25&label=Unique%20Visitors&pretty=true"/>
 
 </p>
+
+<br>
+
+<div align="center">
+
+### Thanks for joining the journey. 🌍
+
+*"The best adventures aren't measured by distance, but by what you build along the way."*
+
+<br>
+
+**Anurag Kumar Bharti**
+
+<sub>Engineer • Builder • Explorer</sub>
+
+</div>
