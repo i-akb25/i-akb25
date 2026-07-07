@@ -139,11 +139,9 @@ The tools I carry for every new expedition.
 
 A snapshot of the road travelled so far.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=i-akb25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=i-akb25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akb25&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-akb25&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,dockerfile,shell" alt="Top Languages"/>
 
 <p align="center">
   <img width="72%" src="https://streak-stats.demolab.com?user=i-akb25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
@@ -160,7 +158,7 @@ Every contribution leaves a footprint.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github.com/i-akb25/i-akb25/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img width="100%" src="https://raw.githubusercontent.com/i-akb25/i-akb25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
