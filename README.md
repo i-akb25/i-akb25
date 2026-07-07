@@ -80,8 +80,6 @@ A curated home for my engineering journey, showcasing projects, experience, achi
 <br>
 </p>
 
----
-
 <br>
 
 <div>
@@ -106,7 +104,6 @@ A lightweight developer toolkit built to simplify repetitive tasks and make ever
 
 </div>
 </p>
-
 
 ## 🎒 Pack List
 
