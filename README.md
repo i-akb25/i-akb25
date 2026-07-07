@@ -66,8 +66,9 @@ A curated home for my engineering journey, showcasing projects, experience, achi
 - 💼 Professional Experience
 - 🏆 Achievements
 - 📄 Resume
-- 📬 Ways to Connect
+- 📬 Ways to Connect 
 
+<p align="center">
 <br>
 
 <a href="https://ace-akb.vercel.app">
@@ -77,6 +78,7 @@ A curated home for my engineering journey, showcasing projects, experience, achi
 </div>
 
 <br>
+</p>
 
 ---
 
@@ -95,6 +97,7 @@ A lightweight developer toolkit built to simplify repetitive tasks and make ever
 - 🧩 Better Workflows
 - 💻 Developer Experience
 
+<p align="center">
 <br>
 
 <a href="https://github.com/i-akb25/akb-cli">
@@ -102,7 +105,7 @@ A lightweight developer toolkit built to simplify repetitive tasks and make ever
 </a>
 
 </div>
-
+</p>
 ---
 
 ## 🎒 Pack List
