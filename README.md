@@ -109,8 +109,6 @@ A lightweight developer toolkit built to simplify repetitive tasks and make ever
 
 The tools I carry for every new expedition.
 
-<br>
-
 ### 💻 Build
 
 <p>
