@@ -50,62 +50,58 @@ Outside of engineering, you'll usually find me planning the next adventure, expl
 ```
 ## 🧭 Expedition Log
 
-These are the projects that best represent my journey as an engineer.
+These are a few destinations that best represent my engineering journey.
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
+<div>
 
 ### 🌐 Portfolio
 
-A central place showcasing my engineering journey, projects, technical experience and achievements.
+A curated home for my engineering journey, showcasing projects, experience, achievements and everything I'm building.
 
-<br>
-
-**Highlights**
+✨ **Inside you'll find**
 
 - 🚀 Featured Projects
 - 💼 Professional Experience
 - 🏆 Achievements
 - 📄 Resume
-- 📬 Contact
+- 📬 Ways to Connect
 
 <br>
 
 <a href="https://ace-akb.vercel.app">
-<img src="https://img.shields.io/badge/Explore%20Portfolio-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Explore%20Portfolio-58A6FF?style=for-the-badge"/>
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br>
+
+---
+
+<br>
+
+<div>
 
 ### ⚡ AKB CLI
 
-A modern developer toolkit focused on simplifying repetitive tasks and improving developer productivity.
+A lightweight developer toolkit built to simplify repetitive tasks and make everyday development faster and more enjoyable.
 
-<br>
+✨ **Designed for**
 
-**Designed For**
-
-- ⚙ Automation
+- ⚙️ Automation
 - 🚀 Productivity
 - 🧩 Better Workflows
-- 💻 Everyday Development
+- 💻 Developer Experience
 
 <br>
 
-<a href="https://github.com/i-akb25">
-<img src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge"/>
+<a href="https://github.com/i-akb25/akb-cli">
+<img src="https://img.shields.io/badge/⚡%20View%20AKB%20CLI-238636?style=for-the-badge"/>
 </a>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -127,19 +123,19 @@ The tools I carry for every new expedition.
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,express" />
 </p>
 
-### ☁ Deploy
+### ☁️ Deploy
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,docker,gcp,vercel" />
 </p>
 
-### 🛰 Explore
+### 🛰️ Explore
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,githubactions,linux,matlab,raspberrypi,vscode" />
 </p>
 
-> 🧳 *A good explorer doesn't carry every tool—only the right ones for the journey.* 
+> 🧳 *A good explorer doesn't carry every tool—only the right ones for the journey.*
 
 ## 📈 Journey
 
