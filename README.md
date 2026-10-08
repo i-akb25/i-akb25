@@ -71,7 +71,7 @@ A curated home for my engineering journey, showcasing projects, experience, achi
 <p align="center">
 <br>
 
-<a href="https://ace-akb.vercel.app">
+<a href="https://akbanurag.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Explore%20Portfolio-58A6FF?style=for-the-badge"/>
 </a>
 
@@ -195,7 +195,7 @@ If you're looking for an engineer, collaborator, or simply someone who enjoys di
 
 <p align="center">
 
-<a href="https://ace-akb.vercel.app">
+<a href="https://akbanurag.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge"/>
 </a>
 
